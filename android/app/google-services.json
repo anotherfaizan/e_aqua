@@ -1,0 +1,177 @@
+{
+  "project_info": {
+    "project_number": "7777578493",
+    "project_id": "a1aquatic",
+    "storage_bucket": "a1aquatic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7777578493:android:09828ae4a6d28a0776fd94",
+        "android_client_info": {
+          "package_name": "com.a1aquatic.inidev.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7777578493-45b72qtbli68hvqdpjl5p41gf65pk7j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1aquatic.inidev.android",
+            "certificate_hash": "c54def47b45ce45ac030369d281443fb6f21eeec"
+          }
+        },
+        {
+          "client_id": "7777578493-5rongnvt2e5sl5188l63ivp8tge2i09t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1aquatic.inidev.android",
+            "certificate_hash": "69a58fc6baa54543e4b60b85b0548c79f7679009"
+          }
+        },
+        {
+          "client_id": "7777578493-9ptl2dho0innfsmdeusjmcaee4di7kpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1aquatic.inidev.android",
+            "certificate_hash": "b4a4f42244992bc6876c23f7ec6450f67164eb46"
+          }
+        },
+        {
+          "client_id": "7777578493-bqvsd44v23plhi8tk5pabihm8i68u27a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1aquatic.inidev.android",
+            "certificate_hash": "b770d647e2642235cf03b8058d0cad467dfc7a1d"
+          }
+        },
+        {
+          "client_id": "7777578493-9fda5f7jk05c4nbm9jikcplku7v943lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6ZzbBi_eOJCHt3fvyf1T9h79xFyiDQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7777578493-9fda5f7jk05c4nbm9jikcplku7v943lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7777578493:android:5b4622643445a63c76fd94",
+        "android_client_info": {
+          "package_name": "com.aquatic.support.inidev.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7777578493-d4k889gmrb4enup91lk7ajkc7phpceu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquatic.support.inidev.android",
+            "certificate_hash": "b770d647e2642235cf03b8058d0cad467dfc7a1d"
+          }
+        },
+        {
+          "client_id": "7777578493-mjg466res9gb3170lj372ret6kks0d86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquatic.support.inidev.android",
+            "certificate_hash": "082fd61940eee112f7beb6294c90a9266d4af4df"
+          }
+        },
+        {
+          "client_id": "7777578493-9fda5f7jk05c4nbm9jikcplku7v943lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6ZzbBi_eOJCHt3fvyf1T9h79xFyiDQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7777578493-9fda5f7jk05c4nbm9jikcplku7v943lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7777578493:android:cb65581ae4f00b0a76fd94",
+        "android_client_info": {
+          "package_name": "com.aquatic_vendor_app.inidev.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7777578493-73llfbhj36pe49dr86sarfdaia3os84c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquatic_vendor_app.inidev.android",
+            "certificate_hash": "c54def47b45ce45ac030369d281443fb6f21eeec"
+          }
+        },
+        {
+          "client_id": "7777578493-f0ajeocrdu25lj266mn75lcrfa7g2uq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquatic_vendor_app.inidev.android",
+            "certificate_hash": "69a58fc6baa54543e4b60b85b0548c79f7679009"
+          }
+        },
+        {
+          "client_id": "7777578493-sj87oc8hpq3u4oujd0544fr98huhgkam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquatic_vendor_app.inidev.android",
+            "certificate_hash": "f80e529827f4b3f91484741520c8c4e094427636"
+          }
+        },
+        {
+          "client_id": "7777578493-spipmj18m7i8d6p8vrm2dmv05uen5np5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquatic_vendor_app.inidev.android",
+            "certificate_hash": "b770d647e2642235cf03b8058d0cad467dfc7a1d"
+          }
+        },
+        {
+          "client_id": "7777578493-9fda5f7jk05c4nbm9jikcplku7v943lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6ZzbBi_eOJCHt3fvyf1T9h79xFyiDQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7777578493-9fda5f7jk05c4nbm9jikcplku7v943lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
